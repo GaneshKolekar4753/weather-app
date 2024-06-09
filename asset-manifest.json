@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.759ca749.css",
+    "main.js": "/weather-app/static/js/main.7a9a0ddb.js",
+    "static/media/clouds.gif": "/weather-app/static/media/clouds.2445baa7bddf52cb3ac4.gif",
+    "static/media/snow.gif": "/weather-app/static/media/snow.19b9a6a4310723f15d99.gif",
+    "static/media/clear.gif": "/weather-app/static/media/clear.ce7a2b4f93e088ae90e4.gif",
+    "static/media/rain.gif": "/weather-app/static/media/rain.b36af12a7afdb4db4fb3.gif",
+    "static/media/heavy_rain.webp": "/weather-app/static/media/heavy_rain.1775373b62adbdb44ed3.webp",
+    "static/media/ice_pellets.gif": "/weather-app/static/media/ice_pellets.bcc54426a88d9ede540e.gif",
+    "static/media/light_fog.gif": "/weather-app/static/media/light_fog.e1cbd6356e77ce53cfae.gif",
+    "static/media/thunderstorm.gif": "/weather-app/static/media/thunderstorm.e56dea65803a27fe5ca9.gif",
+    "static/media/sunny.webp": "/weather-app/static/media/sunny.a9e9a3a2ffa4da4b437b.webp",
+    "static/media/sleet.gif": "/weather-app/static/media/sleet.3ffb7d0494f39e3a8912.gif",
+    "index.html": "/weather-app/index.html",
+    "main.759ca749.css.map": "/weather-app/static/css/main.759ca749.css.map",
+    "main.7a9a0ddb.js.map": "/weather-app/static/js/main.7a9a0ddb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.759ca749.css",
+    "static/js/main.7a9a0ddb.js"
+  ]
+}
