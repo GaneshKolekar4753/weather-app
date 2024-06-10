@@ -12,7 +12,7 @@ A responsive weather application built using React that displays the current wea
 
 ## Demo
 
-![Weather App Demo](https://ganeshkolekar4753.github.io/weather-app/)
+[Weather App Demo](https://ganeshkolekar4753.github.io/weather-app/).
 
 ## Getting Started
 
